@@ -27,9 +27,9 @@ This project demonstrates how to build **AI agents from scratch** using **LangCh
 
 ---
 
-### 2️⃣ Non-Bound Tool Agent
+### 2️⃣ Unbound Tool Agent
 - LLM-based conversational agent
-* Does not use tool binding
+- Does not use tool binding
 - Calls tools explicitly through custom logic
 - Uses prompt + conversation memory for context
 - Tools are triggered manually (developer-controlled)
